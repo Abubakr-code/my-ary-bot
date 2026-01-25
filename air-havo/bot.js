@@ -56,7 +56,7 @@ const texts = {
     about_text: `
 🤖 <b>Air Quality Bot haqida</b>
 
-Bu bot sizning hududingizdagi havo sifatini (AQI) aniqlab beradi. Ma'lumotlar xalqaro monitoring stansiyalaridan (IQAir) olinadi.
+Bu bot sizning hududingizdagi havo sifatini (AQI) aniqlab beradi. Ma'lumotlar xalqaro monitoring stansiyalaridan olinadi.
 
 🌤 <b>Imkoniyatlar:</b>
 • 🌫 Havo ifloslanish darajasi (AQI).
@@ -97,7 +97,7 @@ Botga shunchaki o'z <b>Lokatsiyangizni</b> yuboring, u darhol havo sifatini tahl
     about_text: `
 🤖 <b>О боте Air Quality</b>
 
-Этот бот определяет индекс качества воздуха (AQI) в вашем районе. Данные берутся с международных станций мониторинга (IQAir).
+Этот бот определяет индекс качества воздуха (AQI) в вашем районе. Данные берутся с международных станций мониторинга.
 
 🌤 <b>Возможности:</b>
 • 🌫 Уровень загрязнения воздуха (AQI).
@@ -138,7 +138,7 @@ Botga shunchaki o'z <b>Lokatsiyangizni</b> yuboring, u darhol havo sifatini tahl
     about_text: `
 🤖 <b>About Air Quality Bot</b>
 
-This bot determines the Air Quality Index (AQI) in your area using data from international monitoring stations (IQAir).
+This bot determines the Air Quality Index (AQI) in your area using data from international monitoring stations.
 
 🌤 <b>Features:</b>
 • 🌫 Air pollution level (AQI).
